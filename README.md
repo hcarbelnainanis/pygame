@@ -20,7 +20,7 @@ Installation
 Clone the repository to your local machine.
 bash
 Copy code
-git clone https://github.com/your-username/snake-game.git
+git clone (https://github.com/hcarbelnainanis/pygame)
 Navigate to the project directory.
 bash
 Copy code
