@@ -27,9 +27,9 @@ Copy code
 cd snake-game
 Run the game executable or script.
 Credits
-This Snake Game was created by [Your Name].
+This Snake Game was created by hcarbel.
 
 License
 This project is licensed under the MIT License.
 
-Enjoy playing the Snake Game! If you have any questions or feedback, feel free to contact [Your Email Address].
+Enjoy playing the Snake Game! If you have any questions or feedback, feel free to contact charbelsinanian0@gmail.com
